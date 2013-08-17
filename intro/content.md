@@ -7,10 +7,12 @@
 * edit, save, quit
 * delete, yank, undo, redo
 * /search
+* :lineNumber
 
 ## Config
 * .vimrc
 
 ## Plugins
+* 'normal' way
 * vundle
 * 'vim-scripts/matchit.zip' 

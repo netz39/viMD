@@ -1,0 +1,9 @@
+Commands
+========
+yy - frank
+dd - delete
+p - paste
+u - undo
+ctrl-r - redo
+:%s/yank/frank/g
+:help

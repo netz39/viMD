@@ -1,0 +1,9 @@
+Config
+======
+
+* .vimrc
+	* kann alles auch so ausgeführt werden z.B. :set nonumber
+* $HOME/.vim/
+	* Plugins
+	* Colorschemes
+	* Foo

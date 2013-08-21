@@ -1,0 +1,11 @@
+Command Mode und Insertion Mode
+===============================
+
+:e Dateiname
+<i>
+
+
+	$text
+<esc>
+:w
+:q

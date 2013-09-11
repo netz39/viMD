@@ -1,0 +1,9 @@
+Zwischen Zeilen
+===============
+
+	k j		hoch / runter
+	-	+		zum Zeilenanfang
+	G			letzte Zeile
+	gg 		erste Zeile
+	:1234 Zeile 1234
+	57%		57% der Datei, erster Buchstabe der Zeile

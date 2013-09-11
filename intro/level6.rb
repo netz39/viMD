@@ -3,7 +3,6 @@ class Player
 		@old_health = 20
 		@stage = 0
 	end
-
 	def play_turn(warrior)
 		if @stage == 0 
 			if warrior.feel.empty?

@@ -1,0 +1,16 @@
+Innerhalb der Zeile
+===================
+
+	h,l	rechts, links
+	0		Erster Buchstabe der Zeile
+	^ 	Erster Buchstabe der Zeile
+	$		Ende der Zeile
+
+	f<x> Zum nächsten Auftauchen des Buchstaben	
+	t<x> Vor den Buchstaben
+	F	T	 Zum vorherigen Auftauchen
+	;		 Letztes f/t wiederholen
+	, 	 Letztes f/t Rückwärts
+
+
+	g<x> Movement innerhalb umbrochener Zeilen // LaTeX

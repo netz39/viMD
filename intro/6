@@ -1,7 +1,7 @@
 Plugins
 =======
 * normalerweise in $HOME/.vim/
-* Cooltes Plugin: Pluginverwaltung
+* Coolstes Plugin: Pluginverwaltung
 	* vundle https://github.com/gmarik/vundle
 	* Pathogene
 	* 'kien/ctrlp.vim' Fuzzy File completion

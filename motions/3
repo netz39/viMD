@@ -1,0 +1,36 @@
+word and WORD
+=============
+
+word: alphanumerisch
+WORD: druckbare Zeichen
+
+wW nächster Wortanfang
+eE nächstes Wortende
+bB Wortanfang, rückwärts
+
+* vim-scripts/camelcasemotion - ,w ,e etc für navigaitonDurch_code
+
+
+Text Objects
+============
+
+()	Sätze vor/rückwärts
+{}	Paragraphs
+
+]] Vorwärts zum nächsten { am Zeilenanfang
+][ Vorwärts zum nächsten } am Zeilenanfang
+[[ Rückwärts zum nächsten { am Zeilenanfang
+[] Rückwärts zum nächsten } am Zeilenanfang
+
+
+Visual Mode / Operators
+=======================
+
+aw 'a word'
+iw 'inner word'	// Unterschied: Whitespaces
+as 'a sentece'
+ap 'a paragraph'
+a] [a block]
+	Weitere Blöcke: <{"'B
+
+at 'a tag block' <foo>bar</foo>

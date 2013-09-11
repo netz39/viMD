@@ -1,0 +1,11 @@
+Motion Operators
+================
+
+c Change
+d	Delete
+y	Yank
+g~	Switch Case
+gu	lowercase
+gU	Uppercase
+=><	Einrücken
+g?	Rot13

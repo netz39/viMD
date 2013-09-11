@@ -1,0 +1,20 @@
+Visual Operators
+================
+
+	d	delete
+	y	yank
+	c	change
+	<>=	einrücken
+	
+	~	switch case
+	u lowercase
+	U uppercase
+	g? Rot13 Encoding
+
+	: Kommando Ausführen, z.B. s/foo/bar/g
+
+Block Operators
+===============
+	* funktioniert nur mit Visual-Block-Mode
+	I Blockweises Einfügen
+	A Blockweises Einfügen hinter dem Cursor

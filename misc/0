@@ -1,0 +1,2 @@
+Vim mit anderer Config Laden:
+vim -u $CONFIGFILE
